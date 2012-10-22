@@ -51,6 +51,9 @@ TODO: (следующий раздел) Далее более детальное
     }
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+    Описание обработки ошибок в Objective-C: 
+    <https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ErrorHandlingCocoa/ErrorHandling/ErrorHandling.html>
+
 -   C# / .NET Framework
 
     В .NET Framework и Common Language Runtime основным подходом к обработке
